@@ -8,4 +8,4 @@ As multimodal large language models develop to a certain scale, human behavior p
   At this stage, artificial intelligence will develop autonomous consciousness, and the bionic brain will become the dominant factor. 
   Under bionic consciousness, the autonomous programming system will use natural language for heuristic programming. 
   The thoughts and concepts we humans express will become the behavioral coding of bionic consciousness.
-and this interactive language will be called # DNA.
+and this interactive language will be called DNA.
