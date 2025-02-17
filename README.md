@@ -11,7 +11,9 @@ As multimodal large language models develop to a certain scale, human behavior p
 and this interactive language will be called DNA.
 
 # Bionic machine learning programming language: 
-thoughts generate actions,
 This is a logical reasoning language based on thought chain control.
+
+thoughts generate actions,Code that controls the thought process of a logical machine.
+
 Future programming languages ​​will only need to provide keywords in the chain of thought.
 
