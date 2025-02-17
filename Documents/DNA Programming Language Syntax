@@ -1,19 +1,32 @@
-Order Behavioral Instructions.
+Order 
+   Behavioral Instructions.
 
-（）Inject Memory.
+（）
+   Inject Memory.
 
-/* Inject information into the main knowledge system.
+/* 
+   Inject information into the main knowledge system.
 
-: Thinking Chain.
+: 
+   Thinking Chain.
 
--Task Single threaded tasks.
+-Task 
+    Single threaded tasks.
 
-Task()/* Global tasks mobilize both the thinking system and the memory system.
+Task()/* 
+    Global tasks mobilize both the thinking system and the memory system.
 
-Luancher()/* An information security authentication system guided by the main consciousness.
+Luancher()/* 
+    An information security authentication system guided by the main consciousness.
 
-Behavior(Go,Goto,Read,Write....)Bionic Behavior Dictionary.
+Behavior(Go,Goto,Read,Write,Search....)
+    Bionic Behavior Dictionary.
 
-System(Load,Delete,Catch,Encoder....）Bionic Instinct Dictionary.
+System(Load,Delete,Catch,Encoder....）
+    Bionic Instinct Dictionary.
 
-Done Force termination of commands to prevent system overload.
+Target:
+    Thought chaining tasks that enable memory function.
+
+Done 
+    Force termination of commands to prevent system overload.
