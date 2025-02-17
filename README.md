@@ -10,7 +10,7 @@ As multimodal large language models develop to a certain scale, human behavior p
   The thoughts and concepts we humans express will become the behavioral coding of bionic consciousness.
 and this interactive language will be called DNA.
 
-#Bionic machine learning programming language: 
+# Bionic machine learning programming language: 
 thoughts generate actions,
 This is a logical reasoning language based on thought chain control.
 Future programming languages ​​will only need to provide keywords in the chain of thought.
