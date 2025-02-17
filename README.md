@@ -1,4 +1,4 @@
-# DNA
+# DNA（Deep Net Apdater）
 DNA: Bionic Brain Heuristic Interactive Language Specification!
 
 
