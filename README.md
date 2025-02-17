@@ -17,3 +17,5 @@ thoughts generate actions,Code that controls the thought process of a logical ma
 
 Future programming languages ​​will only need to provide keywords in the chain of thought.
 
+# Bionic thinking is the final historical stage of the development of artificial intelligence.
+
