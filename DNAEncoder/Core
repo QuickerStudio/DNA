@@ -1,1 +1,16 @@
 Core
+
+Main() /*
+Load:Task -System start
+          -File encoder
+          -Search Start
+			    -Read File/*
+          -Set Function
+
+Function() /*
+Read /*
+Load /*
+Set.DNA
+Luancher.DNA 
+Engine.DNA
+Reload:Date/*
