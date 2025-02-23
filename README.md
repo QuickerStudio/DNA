@@ -19,3 +19,7 @@ Future programming languages ​​will only need to provide keywords in the cha
 
 # Bionic thinking is the final historical stage of the development of artificial intelligence.
 
+ 📜 License
+
+Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
+
